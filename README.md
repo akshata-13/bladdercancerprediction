@@ -1,4 +1,4 @@
-# bladdercancerprediction
+# Bladder Cancer Prediction
 
 # Project Overview
 Bladder cancer is a significant health concern worldwide, and early detection plays a crucial role in effective treatment and prognosis. This project uses machine learning techniques to classify bladder cancer cases based on [specify data features briefly if known, e.g., clinical data, imaging, biomarkers].
